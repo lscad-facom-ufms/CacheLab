@@ -1,7 +1,7 @@
 # CacheLab: Enhancing Memory Hierarchy Learning Through Interactive Exploration
 
 ## Abou this project 
-CacheLab is an open-source, web-based cache simulator. Designed to support both education and research, CacheLab provides an intuitive simulation environment for exploring cache mechanisms and advanced features for performance analysis. This simulator's primary purpose is to provide a detailed analysis of the behavior and performance of different cache-memory organizations. This analysis utilizes memory access patterns instrumented from real applications, enabling the exploration of the principles of spatial and temporal locality. The available functionalities and the user interface enable the simulator to serve as a didactic tool for teaching Computer Architecture. 
+CacheLab is an open-source, web-based cache simulator. Designed to support both education and research, it provides an intuitive simulation environment for exploring cache mechanisms and advanced features for performance analysis. This simulator's primary purpose is to provide a detailed analysis of the behavior and performance of different cache-memory organizations. This analysis utilizes memory access patterns instrumented from real applications, enabling the exploration of the principles of spatial and temporal locality. The available functionalities and the user interface enable the simulator to serve as a didactic tool for teaching Computer Architecture. 
 
 ## Features
 - **Realistic Input Data:** enables the evaluation of memory traces obtained from real applications, avoiding reliance on random or synthetic address simulations.
